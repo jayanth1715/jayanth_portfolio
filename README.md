@@ -1,6 +1,6 @@
 # Jayanth S — Interactive Engineering Portfolio
 
-An editorial, interactive portfolio website inspired by high-end design engineering portfolios (e.g. [portfolio-beta-gray-9ei2am6d1z.vercel.app](https://portfolio-beta-gray-9ei2am6d1z.vercel.app/)), built with:
+An editorial, interactive portfolio website inspired by high-end design engineering portfolios built with:
 - **React 18 + Vite**
 - **Lenis** silky smooth scrolling (60/120fps)
 - **3D Procedural Jigsaw Puzzle Canvas Engine**: Smoothly morphs and shatters the art boards in 3D perspective during section transitions
